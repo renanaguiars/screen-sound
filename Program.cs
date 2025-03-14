@@ -60,4 +60,4 @@ void ExibirMenu()
         Console.WriteLine("Opção inválida");
     }
 }
-//ExibirMenu();
+ExibirMenu();
